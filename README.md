@@ -16,4 +16,5 @@ I rely on various services to extend each data point with online-accessible info
 
 I use OpenStreetMap to juxtapose hiking, exploration and camping routes.
 
-###  [propriety] Garmin
+### [propriety] Garmin
+### [propriety] Letterboxd
